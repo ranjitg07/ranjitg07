@@ -6,7 +6,7 @@ Software Engineer
 -----------------
 
 💻 Tech Love: My fascination with technology started back in 7th STD when I got my hands on my first laptop. Fast-forward to today, I specialize in transforming ideas into immersive online experiences as a Web Developer. 🔧 Professional Evolution: My journey includes impactful internships at Advent Softwares and Desi QnA, honing my skills as an Assistant Software Developer and Software Engineer respectively.
-<img align="right" alt="Coding" width="300" src="http://bit.ly/3OamAoy">
+
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [RanjitG07-Portfolio](http://ranjit-gupta-vercel)
@@ -14,6 +14,7 @@ Software Engineer
 * 🚀  I'm currently working on [RanjitG07-Portfolio](http://github.com)
 * 🧠  I'm learning JS, React, Next.Js
 * ⚡  I am also a Graphic Designer | UI/UX Designer | Sketch Artist |
+<img align="right" alt="Coding" width="300" src="http://bit.ly/3OamAoy">
 
 <a href="https://www.x.com/RanjitG_07" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/RanjitG_07?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
