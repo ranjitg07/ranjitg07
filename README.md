@@ -6,7 +6,7 @@ Software Engineer
 -----------------
 
 💻 Tech Love: My fascination with technology started back in 7th STD when I got my hands on my first laptop. Fast-forward to today, I specialize in transforming ideas into immersive online experiences as a Web Developer. 🔧 Professional Evolution: My journey includes impactful internships at Advent Softwares and Desi QnA, honing my skills as an Assistant Software Developer and Software Engineer respectively.
-<img align="right" alt="Coding" width="350" src="http://bit.ly/3OamAoy">
+<img align="right" alt="Coding" width="300" src="http://bit.ly/3OamAoy">
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [RanjitG07-Portfolio](http://ranjit-gupta-vercel)
