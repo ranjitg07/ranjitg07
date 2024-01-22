@@ -14,6 +14,7 @@ I'm an Full-Stack Developer and content creator building my version of the digit
 * 🧠  I'm learning JS, React, Next.Js
 * ⚡  I am also a Graphic Designer | UI/UX Designer | Sketch Artist |
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjitg07&label=Profile%20views&color=0e75b6&style=flat" alt="ranjitg07"/> </p>
 <a href="https://www.x.com/RanjitG_07" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/RanjitG_07?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
