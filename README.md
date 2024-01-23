@@ -1,16 +1,14 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQH0dPwZcgwGug/profile-displaybackgroundimage-shrink_350_1400/0/1700405540097?e=1711584000&v=beta&t=r05VAGzbenV5qKfxNDN5UkCzH49izIQBFFVwtQD7lxM)
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ranjit Gupta
-====================================================================================================================================
+# 👋 Hi, I'm Ranjit Gupta!
 
 **`Digital Craftsman (Developer/Designer/Sketch Artist)`**
 -----------------
 
-I'm an Full-Stack Developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
+I'm a Full-Stack Developer and Graphic Designer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [RanjitG07-Portfolio](http://ranjit-gupta-vercel)
 * ✉️  You can contact me at [ranjitgupta2002@gmail.com](mailto:ranjitgupta2002@gmail.com)
-* 🚀  I'm currently working on [RanjitG07-Portfolio](http://github.com)
+* 🚀  I'm currently working on [Sudoku-Game](https://github.com/ranjitg07/Sudoku_Game_JavaScript)
 * 🧠  I'm learning JS, React, Next.Js
 * ⚡  I am also a Graphic Designer | UI/UX Designer | Sketch Artist |
 
@@ -60,16 +58,21 @@ src="https://img.shields.io/twitter/follow/RanjitG_07?logo=twitter&style=for-the
 
 #
 
-### Badges
-
 <b>My GitHub Stats</b>
 
 ![Ranjit's Github Stats](https://github-readme-stats.vercel.app/api?username=ranjitg07&theme=radical&hide_border=false&show_icons=true)
 
-<a href="http://www.github.com/ranjitg07"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjitg07&theme=radical&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/ranjitg07"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjitg07&stroke=ffffff&background=141321&ring=D83A7C&fire=90D7D4&currStreakNum=ffffff&currStreakLabel=90D7D4&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
 
-<a href="https://github.com/ranjitg07" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjitg07&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+#
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/ranjitg07/Sudoku_Game_JavaScript" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjitg07&repo=Sudoku_Game_JavaScript&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/ranjitg07/Sudoku_Game_JavaScript" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjitg07&repo=Sudoku_Game_JavaScript&title_color=D83A7C&text_color=90D7D4&icon_color=D83A7C&bg_color=141321&hide_border=false&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+#
+
+<details>
+ <summary><h3>👨‍💻 Ranjit's Coding Journey</h3></summary>
+  💻 Tech Love: My fascination with technology started back in 7th STD when I got my hands on my first laptop. Fast forward to today, I specialize in         transforming ideas into immersive online experiences as a Web Developer. </br> 
+  💻 Professional Evolution: My journey includes impactful internships at Advent Softwares and Desi QnA, honing my skills as an Assistant Software Developer and Software Engineer respectively. </details>
