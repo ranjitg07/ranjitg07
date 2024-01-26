@@ -1,3 +1,5 @@
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQH0dPwZcgwGug/profile-displaybackgroundimage-shrink_350_1400/0/1700405540097?e=1711584000&v=beta&t=r05VAGzbenV5qKfxNDN5UkCzH49izIQBFFVwtQD7lxM)
+
 # 👋 Hi, I'm Ranjit Gupta!
 
 **`Digital Craftsman (Developer/Designer/Sketch Artist)`**
