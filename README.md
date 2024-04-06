@@ -53,10 +53,6 @@ src="https://img.shields.io/twitter/follow/RanjitG_07?logo=twitter&style=for-the
 <p align="left">
 <a href="https://twitter.com/ranjitg_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranjitg_07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ranjitg07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjitg07" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ranjitg07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ranjitg07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ranjitg07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ranjitg07" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ranjitg07/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ranjitg07/profile" height="30" width="40" /></a>
-<a href="https://medium.com/@ranjitg07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ranjitg07" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ranjitgyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ranjitgyt" height="30" width="40" /></a>
 </p>
 
