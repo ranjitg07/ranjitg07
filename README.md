@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQH0dPwZcgwGug/profile-displaybackgroundimage-shrink_350_1400/0/1700405540097?e=1711584000&v=beta&t=r05VAGzbenV5qKfxNDN5UkCzH49izIQBFFVwtQD7lxM)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQH0dPwZcgwGug/profile-displaybackgroundimage-shrink_350_1400/0/1700405540097?e=1717632000&v=beta&t=uPAwzn2HGBjt2HckvPlf7C7LCUSNVeAzg4cktvdnYxs)
 
 # 👋 Hi, I'm Ranjit Gupta!
 
