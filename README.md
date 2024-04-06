@@ -68,9 +68,12 @@ src="https://img.shields.io/twitter/follow/RanjitG_07?logo=twitter&style=for-the
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/ranjitg07/Sudoku_Game_JavaScript" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjitg07&repo=Sudoku_Game_JavaScript&title_color=D83A7C&text_color=90D7D4&icon_color=D83A7C&bg_color=141321&hide_border=false&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/ranjitg07/travelsphere-tours-travel-website-react" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjitg07&repo=travelsphere-tours-travel-website-react&title_color=D83A7C&text_color=90D7D4&icon_color=D83A7C&bg_color=141321&hide_border=false&locale=en" /></a>
+<a href="https://github.com/ranjitg07/tic-tac-toe-multiplayer-react-node-socketio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjitg07&repo=tic-tac-toe-multiplayer-react-node-socketio&title_color=D83A7C&text_color=90D7D4&icon_color=D83A7C&bg_color=141321&hide_border=false&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/ranjitg07/travelsphere-tours-travel-website-react" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjitg07&repo=travelsphere-tours-travel-website-react&title_color=D83A7C&text_color=90D7D4&icon_color=D83A7C&bg_color=141321&hide_border=false&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<br />
+
+<div width="100%" align="center"><a href="https://github.com/ranjitg07/sudoku_solver_javaScript" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjitg07&repo=sudoku_solver_javaScript&title_color=D83A7C&text_color=90D7D4&icon_color=D83A7C&bg_color=141321&hide_border=false&locale=en" /></a><a href="https://github.com/ranjitg07/11_javaScript_projects" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjitg07&repo=11_javaScript_projects&title_color=D83A7C&text_color=90D7D4&icon_color=D83A7C&bg_color=141321&hide_border=false&locale=en" /></a></div></div><br /><br /><br /><br /><br /><br /><br />
 
 #
 
