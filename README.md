@@ -8,7 +8,7 @@
 I'm a Full-Stack Developer and Graphic Designer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [RanjitG07-Portfolio](http://ranjit-gupta-vercel)
+* 🖥️  See my portfolio at [RanjitGupta-Portfolio](https://ranjitgupta-portfolio.vercel.app/)
 * ✉️  You can contact me at [ranjitgupta2002@gmail.com](mailto:ranjitgupta2002@gmail.com)
 * 🚀  I'm currently working on [Sudoku-Game](https://github.com/ranjitg07/Sudoku_Game_JavaScript)
 * 🧠  I'm learning JS, React, Next.Js
